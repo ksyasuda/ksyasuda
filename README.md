@@ -1,108 +1,8 @@
-<style>
-	.link {
-		color: dodgerblue;
-	}
-	.link:hover {
-		color: rebeccapurple;
-	}
-	.link:active {
-		color: green;
-	}
-	.title {
-		text-align: center;
-		font-weight: bold;
-		color: dodgerblue;
-	}
-	.subtitle {	.link {
-		color: dodgerblue;
-	}
-	.link:hover {
-		color: rebeccapurple;
-	}
-	.link:active {
-		color: green;
-	}
-	.title {
-		text-align: center;
-		font-weight: bold;
-		color: dodgerblue;
-	}
-	.subtitle {
-		text-align: center;
-		font-size: 12px;
-		margin-top: -5px;
-		padding: 84x;
-		color: #f1e05a;
-	}
-	.suda {
-		font-size: 10px;
-		position: relative;
-		text-align: center;
-		top: -8px;
-		color: #ba5e1b;
-	}
-		text-align: center;
-		font-size: 12px;
-		margin-top: -5px;
-		padding: 84x;
-		color: #f1e05a;
-	}
-	.suda {
-		font-size: 10px;
-		position: relative;
-		text-align: center;
-		top: -8px;
-		color: #ba5e1b;
-	}
-	.attribution {
-		font-size: 6px;
-	}
-	.att-link {
-		margin-right: 2px;
-		display: none;
-	}
-	.attribution-button {
-		background: none;
-		border: none;
-		color: grey;
-		font-size: 10px;
-		cursor: pointer;
-	}
-	.attribution-button:hover {
-		color: dodgerblue;
-	}
-	.attribution-button:active {
-		color: green;
-	}
-	.img-container {
-		display: flex;
-		justify-content: center;
-	}
-	.container {
-		display: flex;
-		justify-content: center;
-	}
-	.waka1, .waka2 {
-		width: 100%;
-	}
-	/* @media(min-width: 600px) {
-		.container{
-			flex-direction: column;
-			padding: 2px;
-		}
-	} */
-</style>
-<script>
-	function showAttribution(event) {
-		document.getElementById("attribution-link").style.display = 'inline'
-	}
-</script>
+# **_I'm Kyle Yasuda_**
 
-<h1 class="title">I'm Kyle Yasuda</h1>
+AKA Sudacode
 
-<p class="suda">AKA sudacode</p>
-
-<p class="subtitle">A Senior Computer Science Student at the University of Michigan - Ann Arbor</p>
+A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 ## Personal Website | Sudacode:
 
@@ -114,7 +14,7 @@ My website was built using <a class="link" href="https://www.gatsbyjs.com/" name
 
 ## Programming Languages:
 
-<div class="img-container">
+<div style="display: flex; justify-content: center">
 	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 	<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -126,17 +26,17 @@ My website was built using <a class="link" href="https://www.gatsbyjs.com/" name
 	<img src="https://img.icons8.com/fluent/48/000000/console.png"/>
 	<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 </div>
-<div id="attribution" class="attribution">
-	<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>
-	<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>
+<div id="attribution" style="font-size: 8px;">
+	<strong>Atribution:</strong><br/>
+	<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>,
+	<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>,
 	<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>
-	<button class="attribution-button" click="showAttribution()">Show attribution</button>
 </div>
 
 ---
@@ -173,9 +73,9 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 
 ## Wakatime Stats
 
-<div class="container">
-	<a href="https://wakatime.com"><img class="waka1" src="https://wakatime.com/share/@sudacode/e8e25842-cfad-4dd9-93b3-dd9334e5c2f9.png" /></a>
-	<a href="https://wakatime.com"><img class="waka2" src="https://wakatime.com/share/@sudacode/83cb08e3-d74a-4a92-bd2d-5abffe146c94.png" /></a>
+<div style="display: flex; justify-content: center;">
+	<a href="https://wakatime.com"><img style="width: 100%;" src="https://wakatime.com/share/@sudacode/e8e25842-cfad-4dd9-93b3-dd9334e5c2f9.png" /></a>
+	<a href="https://wakatime.com"><img style="width: 100%;" class="waka2" src="https://wakatime.com/share/@sudacode/83cb08e3-d74a-4a92-bd2d-5abffe146c94.png" /></a>
 </div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudacode)](https://github.com/anuraghazra/github-readme-stats) -->
