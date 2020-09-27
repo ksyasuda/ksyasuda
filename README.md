@@ -73,9 +73,9 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 
 ## Wakatime Stats
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
 	<a href="https://wakatime.com"><img style="width: 100%;" src="https://wakatime.com/share/@sudacode/e8e25842-cfad-4dd9-93b3-dd9334e5c2f9.png" /></a>
 	<a href="https://wakatime.com"><img style="width: 100%;" class="waka2" src="https://wakatime.com/share/@sudacode/83cb08e3-d74a-4a92-bd2d-5abffe146c94.png" /></a>
-</div>
+</div> -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudacode)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudacode)](https://github.com/anuraghazra/github-readme-stats)
