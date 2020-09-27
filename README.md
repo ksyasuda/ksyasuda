@@ -1,36 +1,106 @@
-<h1 class="title">I'm Kyle Yasuda</h1>
-<p class="suda">AKA sudacode</p>
-
 <style>
-.link {
-	color: dodgerblue;
-}
-.link:hover {
-	color: rebeccapurple;
-}
-.link:active {
-	color: green;
-}
-.title {
-	text-align: center;
-	font-weight: bold;
-	color: dodgerblue;
-}
-.subtitle {
-	text-align: center;
-	font-size: 12px;
-	margin-top: -5px;
-	padding: 84x;
-	color: #f1e05a;
-}
-.suda {
-	font-size: 10px;
-	position: relative;
-	text-align: center;
-	top: -8px;
-	color: #ba5e1b;
-}
+	.link {
+		color: dodgerblue;
+	}
+	.link:hover {
+		color: rebeccapurple;
+	}
+	.link:active {
+		color: green;
+	}
+	.title {
+		text-align: center;
+		font-weight: bold;
+		color: dodgerblue;
+	}
+	.subtitle {	.link {
+		color: dodgerblue;
+	}
+	.link:hover {
+		color: rebeccapurple;
+	}
+	.link:active {
+		color: green;
+	}
+	.title {
+		text-align: center;
+		font-weight: bold;
+		color: dodgerblue;
+	}
+	.subtitle {
+		text-align: center;
+		font-size: 12px;
+		margin-top: -5px;
+		padding: 84x;
+		color: #f1e05a;
+	}
+	.suda {
+		font-size: 10px;
+		position: relative;
+		text-align: center;
+		top: -8px;
+		color: #ba5e1b;
+	}
+		text-align: center;
+		font-size: 12px;
+		margin-top: -5px;
+		padding: 84x;
+		color: #f1e05a;
+	}
+	.suda {
+		font-size: 10px;
+		position: relative;
+		text-align: center;
+		top: -8px;
+		color: #ba5e1b;
+	}
+	.attribution {
+		font-size: 6px;
+	}
+	.att-link {
+		margin-right: 2px;
+		display: none;
+	}
+	.attribution-button {
+		background: none;
+		border: none;
+		color: grey;
+		font-size: 10px;
+		cursor: pointer;
+	}
+	.attribution-button:hover {
+		color: dodgerblue;
+	}
+	.attribution-button:active {
+		color: green;
+	}
+	.img-container {
+		display: flex;
+		justify-content: center;
+	}
+	.container {
+		display: flex;
+		justify-content: center;
+	}
+	.waka1, .waka2 {
+		width: 100%;
+	}
+	/* @media(min-width: 600px) {
+		.container{
+			flex-direction: column;
+			padding: 2px;
+		}
+	} */
 </style>
+<script>
+	function showAttribution(event) {
+		document.getElementById("attribution-link").style.display = 'inline'
+	}
+</script>
+
+<h1 class="title">I'm Kyle Yasuda</h1>
+
+<p class="suda">AKA sudacode</p>
 
 <p class="subtitle">A Senior Computer Science Student at the University of Michigan - Ann Arbor</p>
 
@@ -41,38 +111,6 @@
 My website was built using <a class="link" href="https://www.gatsbyjs.com/" name="sudacode-website" rel="noreferrer" target="_blank">Gatsby</a> a "React-based, open source, GraphQL powered static site generator." My website also integrates my <a class="link" href="https://github.com/ksyasuda/heroku-react-travel-app" rel="noreferrer" target="_blank">React Travel App</a>, which is written completely in React, that makes use of an API backend server I created using Node.js and <a class="link" rel="noreferrer" target="_blank" href="https://expressjs.com/">Express</a>.
 
 ---
-
-<style>
-.attribution {
-	font-size: 6px;
-}
-.att-link {
-	margin-right: 2px;
-	display: none;
-}
-.attribution-button {
-	background: none;
-	border: none;
-	color: grey;
-	font-size: 10px;
-	cursor: pointer;
-}
-.attribution-button:hover {
-	color: dodgerblue;
-}
-.attribution-button:active {
-	color: green;
-}
-.img-container {
-	display: flex;
-	justify-content: center;
-}
-</style>
-<script>
-	function showAttribution(event) {
-		document.getElementById("attribution-link").style.display = 'inline'
-	}
-</script>
 
 ## Programming Languages:
 
@@ -132,21 +170,6 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 :heavy_check_mark: <a class="link" href="https://eecs485staff.github.io/eecs485.org/" rel="noreferrer" target="_blank">EECS 485</a> - Web Systems
 
 ---
-
-<style>
-.container {
-	display: flex;
-}
-.waka1, .waka2 {
-	width: 100%;
-}
-@media(min-width: 600px) {
-	.container{
-		flex-direction: column;
-		padding: 2px;
-	}
-}
-</style>
 
 ## Wakatime Stats
 
