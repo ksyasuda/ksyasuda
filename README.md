@@ -6,7 +6,10 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 ## Personal Website | Sudacode:
 
-<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and my projects.</p>
+<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and my proj## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->ects.</p>
 
 My website was built using <a class="link" href="https://www.gatsbyjs.com/" name="sudacode-website" rel="noreferrer" target="_blank">Gatsby</a> a "React-based, open source, GraphQL powered static site generator." My website also integrates my <a class="link" href="https://github.com/ksyasuda/heroku-react-travel-app" rel="noreferrer" target="_blank">React Travel App</a>, which is written completely in React, that makes use of an API backend server I created using Node.js and <a class="link" rel="noreferrer" target="_blank" href="https://expressjs.com/">Express</a>.
 
@@ -39,7 +42,7 @@ My website was built using <a class="link" href="https://www.gatsbyjs.com/" name
 	<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>
 </div>
 
----
+<!-- ---
 
 ## About Me:
 
@@ -47,7 +50,7 @@ I'm from Los Angeles, California. I enjoy playing golf, watching sports (Basketb
 
 I've been coding since my Sophomore year of High School when I took Honors C++. Since then, I have taken at least one Computer Science course in each semester of High School and College. During High School, I learned the basics of C++, Java, and Python, but focused almost exclusively on C++ since becoming a student at the University of Michigan. However, this semester, the first semester of my Senior year, I am taking a Web Systems course dealing with Python, Jinja2, and Flask as well as HTML, CSS, JavaScript, and eventually React. Additionally I am taking a course titled "Practical Programming in Java". I am currently seeking a full time position as a Software Engineer/Software Developer.
 
----
+--- -->
 
 ## Completed Courses:
 
