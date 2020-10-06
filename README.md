@@ -6,10 +6,11 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 ## Personal Website | Sudacode:
 
-<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and my proj## Blog Posts
+<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and to check out more of my projects.
+</p>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->ects.</p>
+<!-- BLOG-POST-LIST:END -->>
 
 My website was built using <a class="link" href="https://www.gatsbyjs.com/" name="sudacode-website" rel="noreferrer" target="_blank">Gatsby</a> a "React-based, open source, GraphQL powered static site generator." My website also integrates my <a class="link" href="https://github.com/ksyasuda/heroku-react-travel-app" rel="noreferrer" target="_blank">React Travel App</a>, which is written completely in React, that makes use of an API backend server I created using Node.js and <a class="link" rel="noreferrer" target="_blank" href="https://expressjs.com/">Express</a>.
 
@@ -23,6 +24,7 @@ My website was built using <a class="link" href="https://www.gatsbyjs.com/" name
 	<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 	<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+	<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 	<img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
 	<img style="margin-left: 8px;" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -33,6 +35,7 @@ My website was built using <a class="link" href="https://www.gatsbyjs.com/" name
 	<strong>Atribution:</strong><br/>
 	<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,
 	<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,
+	<a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>,
 	<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,
 	<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,
 	<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,
