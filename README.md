@@ -86,22 +86,16 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 
 ---
 
-<style>
-.card {
-	padding: 2px;
-}
-</style>
-
 ## Projects
 
 <details style="display: inline;">
 <summary><img width="20px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> React</summary>
 		
 <div style="display: flex;">
-	<a class="card" style="height: 125px; flaot: left;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=website2.0&theme=react" />
 	</a>
-	<a class="card" style="height: 125px; float: left;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="float: left;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=heroku-react-travel-app&theme=react" />
 	</a>
 	<a class="card" style="height: 125px;" href="https://github.com/anuraghazra/github-readme-stats">
@@ -114,16 +108,16 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 <summary>
 <img width='20px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='20px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
 <div style="display: flex;">
-	<a class="card" style="height: 125px; flaot: left; flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left; flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=travel-api&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left; flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left; flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=learn-typescript&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left; flex-wrap: wrap" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left; flex-wrap: wrap" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=BalanceBook-Server&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Flappy-Bird&theme=react"/>
 	</a>
 </div>
@@ -132,13 +126,13 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 <details>
 <summary><img width='20px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
 <div style="display: flex;">
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=RubiksCube&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudoku-solver&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=you-have-to&theme=react"/>
 	</a>
 </div>
@@ -147,10 +141,10 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 <details>
 <summary><img width='20px' src="https://img.icons8.com/fluent/48/000000/console.png"/> Linux Dotfiles / Configuration Files</summary>
 <div style="display: flex;">
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=dotfiles&theme=react"/>
 	</a>
-	<a class="card" style="height: 125px; flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card" style="flaot: left flex-wrap: wrap;" href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=-Linux-Rice-&theme=react"/>
 	</a>
 </div>
