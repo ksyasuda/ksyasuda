@@ -1,47 +1,46 @@
 # **_I'm Kyle Yasuda_**
 
-AKA Sudacode
-
 A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
-## Personal Website | Sudacode:
+## Website/Blog
 
-<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and my proj## Blog Posts
+<p class="website">Check out my website and blog <a class="link" href="https://sudacode.com" name="sudacode-website" rel="noreferrer" target="_blank">here</a> for more information about me and my projects
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->ects.</p>
-
-My website was built using <a class="link" href="https://www.gatsbyjs.com/" name="sudacode-website" rel="noreferrer" target="_blank">Gatsby</a> a "React-based, open source, GraphQL powered static site generator." My website also integrates my <a class="link" href="https://github.com/ksyasuda/heroku-react-travel-app" rel="noreferrer" target="_blank">React Travel App</a>, which is written completely in React, that makes use of an API backend server I created using Node.js and <a class="link" rel="noreferrer" target="_blank" href="https://expressjs.com/">Express</a>.
+The website was built using <a class="link" href="https://www.gatsbyjs.com/" name="sudacode-website" rel="noreferrer" target="_blank">Gatsby</a> a "React-based, open source, GraphQL powered static site generator," for the frontend.  The website also integrates my <a class="link" href="https://github.com/ksyasuda/heroku-react-travel-app" rel="noreferrer" target="_blank">React Travel App</a>, which is written completely in React, that makes use of an API backend server I created using Node.js and <a class="link" rel="noreferrer" target="_blank" href="https://expressjs.com/">Express</a>
 
 ---
 
 ## Programming Languages:
 
-<div style="display: flex; justify-content: center">
-	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-	<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-	<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-	<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-	<img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
-	<img style="margin-left: 8px;" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-	<img src="https://img.icons8.com/fluent/48/000000/console.png"/>
-	<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-</div>
-<div id="attribution" style="font-size: 8px;">
-	<strong>Atribution:</strong><br/>
-	<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>,
-	<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>
-</div>
-
+<center>
+	<div style="display: flex; justify-content: center">
+		<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+		<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+		<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+		<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+		<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+		<img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
+		<img style="margin-left: 8px;" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+		<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+		<img src="https://img.icons8.com/fluent/48/000000/console.png"/>
+		<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+	</div>
+	<details>
+	<div id="attribution" style="font-size: 8px;">
+		<strong>Atribution:</strong><br/>
+		<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>,
+		<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>
+	</div>
+	</details>
+</center>
 <!-- ---
 
 ## About Me:
