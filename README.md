@@ -125,17 +125,15 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 
 <details>
 <summary><img width='20px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
-<div style="display: flex;">
-	<a class="card" style="flaot: left" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card"　href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=RubiksCube&theme=react"/>
 	</a>
-	<a class="card" style="flaot: left" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card"　href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudoku-solver&theme=react"/>
 	</a>
-	<a class="card" style="flaot: left" href="https://github.com/anuraghazra/github-readme-stats">
+	<a class="card"　href="https://github.com/anuraghazra/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=you-have-to&theme=react"/>
 	</a>
-</div>
 </details>
 
 <details>
