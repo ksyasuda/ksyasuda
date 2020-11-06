@@ -104,7 +104,7 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 	<a class="card" style="float: left;" href="https://github.com/ksyasuda/heroku-react-travel-app">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=heroku-react-travel-app&theme=react" />
 	</a>
-	<a class="card" style="height: 125px;" href="https://github.com/ksyasuda/firefox-startpage">
+	<a class="card" style="float: left;" href="https://github.com/ksyasuda/firefox-startpage">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=firefox-startpage&theme=react" />
 	</a>
 </p>
