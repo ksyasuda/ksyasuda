@@ -8,15 +8,15 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 :bookmark: Check out my [website and blog](https://www.sudacode.com) for more information about me and my projects
 
-:open_book: I'm currently learning TypeScript for use in Node as well as React aplications
+:open_book: I'm currently learning ___TypeScript___ for use in ___Node___ as well as ___React___ aplications
 
-:penguin: I'm currently working on Ricing my Linux Desktop (Arch Linux btw)
+:penguin: I'm currently working on Ricing my ___Linux Desktop___ (Arch Linux btw)
 
-:shinto_shrine: I'm currently learning Japanese, having fulfilled my language requirement at Michigan with Spanish
+:shinto_shrine: I'm currently learning ___Japanese___, having fulfilled my language requirement at Michigan with ___Spanish___
 
-:soon: I'm looking to learn Redux for use in React applications
+:soon: I'm looking to learn ___Redux___ for use in React applications
 
-:soon: I'm looking to contribute to Open Source Projects in Web Development, Java Swing Applications, and C++ related projects
+:soon: I'm looking to contribute to ___Open Source Projects___ in ___Web Development___, ___Java Swing Applications___, and ___C++___ related projects
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:ksyasuda@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
@@ -115,7 +115,7 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 <summary>
 <img width='20px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='20px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
 
-<div style="display: flex;">
+<p align='center' style="display: flex;">
 	<a class="card" style="flaot: left;" href="https://github.com/ksyasuda/travel-api">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=travel-api&theme=react"/>
 	</a>
@@ -128,7 +128,7 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 	<a class="card" style="flaot: left" href="https://github.com/ksyasuda/Flappy-Bird">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Flappy-Bird&theme=react"/>
 	</a>
-</div>
+</p>
 
 </details>
 
@@ -136,14 +136,14 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 <summary><img width='20px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
 
 <a class="card"　href="https://github.com/ksyasuda/RubiksCube">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=RubiksCube&theme=react"/>
-	</a>
-	<a class="card"　href="https://github.com/ksyasuda/Sukdoku-Solver">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudoku-solver&theme=react"/>
-	</a>
-	<a class="card"　href="https://github.com/ksyasuda/you-have-to">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=you-have-to&theme=react"/>
-	</a>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=RubiksCube&theme=react"/>
+</a>
+<a class="card"　href="https://github.com/ksyasuda/Sukdoku-Solver">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudoku-solver&theme=react"/>
+</a>
+<a class="card"　href="https://github.com/ksyasuda/you-have-to">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=you-have-to&theme=react"/>
+</a>
 
 </details>
 
