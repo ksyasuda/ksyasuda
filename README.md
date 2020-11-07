@@ -51,16 +51,6 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 ---
 
-<!-- ---
-
-## About Me:
-
-I'm from Los Angeles, California. I enjoy playing golf, watching sports (Basketball, Football, Golf, and Baseball), hanging out with my friends, coding, eating, and traveling.
-
-I've been coding since my Sophomore year of High School when I took Honors C++. Since then, I have taken at least one Computer Science course in each semester of High School and College. During High School, I learned the basics of C++, Java, and Python, but focused almost exclusively on C++ since becoming a student at the University of Michigan. However, this semester, the first semester of my Senior year, I am taking a Web Systems course dealing with Python, Jinja2, and Flask as well as HTML, CSS, JavaScript, and eventually React. Additionally I am taking a course titled "Practical Programming in Java". I am currently seeking a full time position as a Software Engineer/Software Developer.
-
---- -->
-
 ## Computer Science Courses
 
 <details>
@@ -167,9 +157,12 @@ I've been coding since my Sophomore year of High School when I took Honors C++. 
 
 ## Wakatime Stats
 
-<p align="center">
-	<a rel="noreferrer" target="_blank" href="https://wakatime.com/@sudacode">
+<p align="center" style="display: flex; justify-content: center">
+	<a style="float: left; width: 50%;" align='center' rel="noreferrer" target="_blank" href="https://wakatime.com/@sudacode">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudacode">
+	</a>
+	<a style="float: left; width: 45.3%; margin-left: 8px" align='center' href="https://github.com/ksyasuda">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksyasuda&layout=compact&langs_count=8&exclude_repo=udemy-projects,heroku-react-travel-app,ravenous-codemy,russ-fansite,chess,Sudoku-Solver-JS,Connect-4-Ai,Tic-Tac-Toe-Ai,gatsby-website">	
 	</a>
 </p>
 
