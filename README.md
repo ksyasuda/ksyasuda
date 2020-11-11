@@ -20,7 +20,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:ksyasuda@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
-:boom: Fun fact: I'm half Japanese and I don't like Sushi
+:boom: Fun fact: I'm half Japanese, but I don't like Sushi!
 
 ---
 
