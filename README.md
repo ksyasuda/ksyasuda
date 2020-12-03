@@ -6,11 +6,11 @@
 
 A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
-:bookmark: Check out my [website and blog](https://www.sudacode.com) for more information about me and my projects
+:bookmark: Check out my [blog](https://www.sudacode.com) for more information about me and my projects
 
 :open_book: I'm currently learning ___TypeScript___ for use in ___Node___ as well as ___React___ aplications
 
-:penguin: I'm currently working on Ricing my ___Linux Desktop___ (Arch Linux btw)
+:penguin: I'm currently working on Ricing my ___Linux Desktop___ (Arch Linux btw) and my [Sudacode-Persona5RoyalGuide](https://github.com/ksyasuda/Sudacode-Persona5RoyalGuide)
 
 :shinto_shrine: I'm currently learning ___Japanese___, having fulfilled my language requirement at Michigan with ___Spanish___
 
@@ -30,6 +30,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 	<div style="display: flex; justify-content: center">
 		<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 		<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+		<img src="https://img.icons8.com/color/48/000000/python.png"/>
 		<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 		<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 		<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -43,7 +44,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 <details>
 <summary>Attribution</summary>
 
-<div id="attribution" style="font-size: 8px;">			<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,			<a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>
+<div id="attribution" style="font-size: 8px;">			<a class="att-link" href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>,			<a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/Nlsua06Gvxel/react">React icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/WbRVMGxHh74X/console">Console icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>,			<a class="att-link" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">Graphql icon by Icons8</a>, 		<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
 </div>
 
 </details>
@@ -85,7 +86,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 ## Projects
 
 <details style="display: inline;">
-<summary><img width="20px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> React</summary>
+<summary><img width="24px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> React</summary>
 		
 <p align='center' style="display: flex;">
 	<a class="card" style="float: left;" href="https://github.com/ksyasuda/website2.0">
@@ -103,7 +104,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 <details>
 <summary>
-<img width='20px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='20px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
+<img width='24px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='24px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
 
 <p align='center' style="display: flex;">
 	<a class="card" style="float: left;" href="https://github.com/ksyasuda/travel-api">
@@ -123,7 +124,7 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 </details>
 
 <details>
-<summary><img width='20px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
+<summary><img width='24px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
 
 <p align='center' style='display: flex;'>
 <a class="card"　href="https://github.com/ksyasuda/RubiksCube">
@@ -140,14 +141,25 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 </details>
 
 <details>
-<summary><img width='20px' src="https://img.icons8.com/fluent/48/000000/console.png"/> Linux Dotfiles / Configuration Files</summary>
+<summary><img src="https://img.icons8.com/color/24/000000/python.png"/> Python</summary>
+
+<p align='center' style='dispay: flex'>
+<a class="card" href="https://github.com/ksyasuda/Sudacode-Persona5RoyalGuide">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Persona5RoyalGuide&theme=react"/>
+</a>
+</p>
+
+</details>
+
+<details>
+<summary><img width='24px' src="https://img.icons8.com/fluent/48/000000/console.png"/> Linux Dotfiles / Configuration Files</summary>
 
 <p align='center' style="display: flex;">
 	<a class="card" style="float: left" href="https://github.com/ksyasuda/dotfiles">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=dotfiles&theme=react"/>
 	</a>
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/-Linux-Rice-">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=-Linux-Rice-&theme=react"/>
+	<a class="card" style="float: left" href="https://github.com/ksyasuda/Sudacode-Rice">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Rice&theme=react"/>
 	</a>
 </p>
 
@@ -157,13 +169,24 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 ## Wakatime Stats
 
-<p align="center" style="display: flex; justify-content: center">
-	<a style="float: left; width: 50%;" align='center' rel="noreferrer" target="_blank" href="https://wakatime.com/@sudacode">
+<details>
+<summary>Week Stats</summary>
+
+<div align='center'>
+	<a align='center' rel="noreferrer" target="_blank" href="https://wakatime.com/@sudacode">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudacode">
 	</a>
-	<a style="float: left; width: 45.3%; margin-left: 8px" align='center' href="https://github.com/ksyasuda">
+</div>
+
+</details>
+
+<details>
+<summary>Most Used Languages</summary>
+
+<div align='center'>
+	<a align='center' href="https://github.com/ksyasuda">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksyasuda&layout=compact&langs_count=8&exclude_repo=udemy-projects,heroku-react-travel-app,ravenous-codemy,russ-fansite,chess,Sudoku-Solver-JS,Connect-4-Ai,Tic-Tac-Toe-Ai,gatsby-website">	
 	</a>
-</p>
+</div>
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudacode)](https://github.com/ksyasuda/github-readme-stats) -->
+</details>
