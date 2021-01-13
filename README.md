@@ -68,16 +68,23 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 
 :heavy_check_mark: <a class="link" href="https://www.eecs.umich.edu/courses/eecs370/eecs370.f20/" rel="noreferrer" target="_blank">EECS 370</a> - Introduction to Computer Organization
 
-</details>
-
-<details>
-<summary>Currently Taking</summary>
-
 :heavy_check_mark: <a class="link" href="https://eecs285.github.io/eecs285.org/" rel="noreferrer" target="_blank">EECS 285</a> - Practical Programming in Java
 
 :heavy_check_mark: <a class="link" href="https://web.eecs.umich.edu/~weimerw/481/" rel="noreferrer" target="\_blank">EECS 481</a> - Software Engineering
 
 :heavy_check_mark: <a class="link" href="https://eecs485staff.github.io/eecs485.org/" rel="noreferrer" target="_blank">EECS 485</a> - Web Systems
+
+</details>
+
+<details>
+<summary>Currently Taking</summary>
+
+:heavy_check_mark: <span style="font-weight: bold;">EECS 492</span> - Introduction to Artificial Intelligence
+
+:heavy_check_mark: <span style="font-weight: bold;">EECS 493</span> - User Interface Development
+
+:heavy_check_mark: <span style="font-weight: bold;">EECS 441</span> - Mobile App Development for Entrepreneurs
+
 </details>
 
 ---
@@ -106,6 +113,9 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 <img width='20px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='20px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
 
 <p align='center' style="display: flex;">
+	<a class="card" style="float: left;"href="https://github.com/ksyasuda/Sudacode-Blog-V3">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Blog-V3&theme=react"/>
+	</a>
 	<a class="card" style="float: left;" href="https://github.com/ksyasuda/travel-api">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=travel-api&theme=react"/>
 	</a>
