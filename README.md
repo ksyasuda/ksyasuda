@@ -4,15 +4,15 @@
 
 # **_I'm Kyle Yasuda_**
 
-A Senior Computer Science Student at the University of Michigan - Ann Arbor
+### Senior Computer Science Student at the University of Michigan - Ann Arbor
 
-:bookmark: Check out my [blog](https://www.sudacode.com) for more information about me and my projects
+:bookmark: Check out my blog [__sudacode.com__](https://sudacode.com) for more information about me and my projects
 
-:open_book: I'm currently learning ___TypeScript___ for use in ___Node___ as well as ___React___ aplications
+:open_book: I'm currently learning how to build intelligent agents in ___Python___ using ___reinforcement learing___. 
+
+:shinto_shrine: I'm also learning ___Japanese___, having fulfilled my language requirement at Michigan with ___Spanish___
 
 :penguin: I'm currently working on Ricing my ___Linux Desktop___ (Arch Linux btw) and my [Sudacode-Persona5RoyalGuide](https://github.com/ksyasuda/Sudacode-Persona5RoyalGuide)
-
-:shinto_shrine: I'm currently learning ___Japanese___, having fulfilled my language requirement at Michigan with ___Spanish___
 
 :soon: I'm looking to learn ___Redux___ for use in React applications
 
@@ -107,9 +107,6 @@ A Senior Computer Science Student at the University of Michigan - Ann Arbor
 <img width='24px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='24px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
 
 <p align='center' style="display: flex;">
-	<a class="card" style="float: left;" href="https://github.com/ksyasuda/travel-api">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=travel-api&theme=react"/>
-	</a>
 	<a class="card" style="float: left;" href="https://github.com/ksyasuda/learn-typescript">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=learn-typescript&theme=react"/>
 	</a>
