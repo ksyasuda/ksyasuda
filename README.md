@@ -4,7 +4,7 @@
 
 # **_I'm Kyle Yasuda_**
 
-### Senior Computer Science Student at the University of Michigan - Ann Arbor
+### Software Engineer Intern at Westlake Financial Services 
 
 :bookmark: Check out my blog [__sudacode.com__](https://sudacode.com) for more information about me and my projects
 
