@@ -8,15 +8,11 @@
 
 :bookmark: Check out my blog [__sudacode.com__](https://sudacode.com) for more information about me and my projects
 
-:open_book: I'm currently learning how to build intelligent agents in ___Python___ using ___reinforcement learing___. 
+:open_book: I'm currently learning data visualization and analysis in ___Python___. 
 
-:shinto_shrine: I'm also learning ___Japanese___, having fulfilled my language requirement at Michigan with ___Spanish___
+:penguin: I'm always working on Ricing my ___Linux Desktop___ (Arch Linux btw) :arrow_right: [SudacodeRice](https://github.com/ksyasuda/SudacodeRice)
 
-:penguin: I'm currently working on Ricing my ___Linux Desktop___ (Arch Linux btw) and my [Sudacode-Persona5RoyalGuide](https://github.com/ksyasuda/Sudacode-Persona5RoyalGuide)
-
-:soon: I'm looking to learn ___Redux___ for use in React applications
-
-:soon: I'm looking to contribute to ___Open Source Projects___ in ___Web Development___, ___Java Swing Applications___, and ___C++___ related projects
+:pushpin: Check out my fork of [Dink4n's ani-cli](https://github.com/Dink4n/ani-cli) with [rofi](https://www.google.com/search?client=firefox-b-1-d&q=rofi "rofi GitHub") integration as well as search/watch history tracking using [sqlite3](https://www.google.com/search?client=firefox-b-1-d&q=sqlite3 "sqlite homepage")
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:ksyasuda@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
@@ -75,11 +71,6 @@
 
 :heavy_check_mark: <a class="link" href="https://eecs485staff.github.io/eecs485.org/" rel="noreferrer" target="_blank">EECS 485</a> - Web Systems
 
-</details>
-
-<details>
-<summary>Currently Taking</summary>
-
 :heavy_check_mark: <span style="font-weight: bold;">EECS 492</span> - Introduction to Artificial Intelligence
 
 :heavy_check_mark: <span style="font-weight: bold;">EECS 493</span> - User Interface Development
@@ -117,12 +108,6 @@
 	<a class="card" style="float: left;"href="https://github.com/ksyasuda/Sudacode-Blog-V3">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Blog-V3&theme=react"/>
 	</a>
-	<a class="card" style="float: left;" href="https://github.com/ksyasuda/learn-typescript">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=learn-typescript&theme=react"/>
-	</a>
-	<a class="card" style="float: left; flex-wrap: wrap" href="https://github.com/ksyasuda/BalanceBook-Server">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=BalanceBook-Server&theme=react"/>
-	</a>
 	<a class="card" style="float: left" href="https://github.com/ksyasuda/Flappy-Bird">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Flappy-Bird&theme=react"/>
 	</a>
@@ -154,6 +139,9 @@
 <a class="card" href="https://github.com/ksyasuda/Sudacode-Persona5RoyalGuide">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Persona5RoyalGuide&theme=react"/>
 </a>
+<a class="card" href="https://github.com/ksyasuda/sudasong">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=sudasong&theme=react"/>
+</a>
 </p>
 
 </details>
@@ -162,14 +150,11 @@
 <summary><img width='24px' src="https://img.icons8.com/fluent/48/000000/console.png"/> Linux Dotfiles / Configuration Files</summary>
 
 <p align='center' style="display: flex;">
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/dotfiles">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=dotfiles&theme=react"/>
+	<a class="card" style="float: left" href="https://github.com/ksyasuda/SudacodeRice">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=SudacodeRice&theme=react"/>
 	</a>
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/Sudacode-Rice">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Rice&theme=react"/>
-	</a>
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/scripts">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=scripts&theme=react"/>
+	<a class="card" style="float: left" href="https://github.com/ksyasuda/ani-cli">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=ani-cli&theme=react"/>
 	</a>
 </p>
 
