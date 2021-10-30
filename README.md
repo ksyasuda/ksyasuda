@@ -12,7 +12,7 @@
 
 :penguin: I'm always working on Ricing my ___Linux Desktop___ (Arch Linux btw) :arrow_right: [SudacodeRice](https://github.com/ksyasuda/SudacodeRice)
 
-:pushpin: Check out my fork of [Dink4n's ani-cli](https://github.com/Dink4n/ani-cli) with [rofi](https://www.google.com/search?client=firefox-b-1-d&q=rofi "rofi GitHub") integration as well as search/watch history tracking using [sqlite3](https://www.google.com/search?client=firefox-b-1-d&q=sqlite3 "sqlite homepage")
+:pushpin: Check out [my fork](https://github.com/ksyasuda/ani-cli) of [Dink4n's ani-cli](https://github.com/Dink4n/ani-cli) with [rofi](https://www.google.com/search?client=firefox-b-1-d&q=rofi "rofi GitHub") integration as well as search/watch history tracking using [sqlite3](https://www.google.com/search?client=firefox-b-1-d&q=sqlite3 "sqlite homepage")
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:ksyasuda@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
