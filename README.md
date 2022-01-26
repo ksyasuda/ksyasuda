@@ -4,15 +4,13 @@
 
 # **_I'm Kyle Yasuda_**
 
-### Software Engineer at Westlake Financial Services 
+### Software Engineer at Westlake Financial Services
 
-:bookmark: Check out my blog [__sudacode.com__](https://sudacode.com) for more information about me and my projects
+:pushpin: Check out my fork of [Dink4n's ani-cli](https://github.com/Dink4n/ani-cli) with [rofi](https://www.google.com/search?client=firefox-b-1-d&q=rofi "rofi GitHub") integration as well as search/watch history tracking using [sqlite3](https://www.google.com/search?client=firefox-b-1-d&q=sqlite3 "sqlite homepage") :arrow_right: [aniwrapper](https://github.com/ksyasuda/aniwrapper)
 
-:open_book: I'm currently learning data visualization and analysis in ___Python___. 
+:penguin: My Linux (Arch btw) configuration and dotfiles can be found here :arrow_right: [rice](https://github.com/ksyasuda/rice)
 
-:penguin: I'm always working on Ricing my ___Linux Desktop___ (Arch Linux btw) :arrow_right: [SudacodeRice](https://github.com/ksyasuda/SudacodeRice)
-
-:pushpin: Check out [my fork](https://github.com/ksyasuda/ani-cli) of [Dink4n's ani-cli](https://github.com/Dink4n/ani-cli) with [rofi](https://www.google.com/search?client=firefox-b-1-d&q=rofi "rofi GitHub") integration as well as search/watch history tracking using [sqlite3](https://www.google.com/search?client=firefox-b-1-d&q=sqlite3 "sqlite homepage")
+:open_book: I'm currently learning about self-hosting and building a home server using my Raspberry pi.
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:ksyasuda@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
@@ -83,38 +81,6 @@
 
 ## Projects
 
-<details style="display: inline;">
-<summary><img width="24px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> React</summary>
-		
-<p align='center' style="display: flex;">
-	<a class="card" style="float: left;" href="https://github.com/ksyasuda/website2.0">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=website2.0&theme=react" />
-	</a>
-	<a class="card" style="float: left;" href="https://github.com/ksyasuda/heroku-react-travel-app">
-	  <img align="center" style='padding: 4px' src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=heroku-react-travel-app&theme=react" />
-	</a>
-	<a class="card" style="float: left;" href="https://github.com/ksyasuda/firefox-startpage">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=firefox-startpage&theme=react" />
-	</a>
-</p>
-
-</details>
-
-<details>
-<summary>
-<img width='24px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='24px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
-
-<p align='center' style="display: flex;">
-	<a class="card" style="float: left;"href="https://github.com/ksyasuda/Sudacode-Blog-V3">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Blog-V3&theme=react"/>
-	</a>
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/Flappy-Bird">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Flappy-Bird&theme=react"/>
-	</a>
-</p>
-
-</details>
-
 <details>
 <summary><img width='24px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++</summary>
 
@@ -146,15 +112,40 @@
 
 </details>
 
+<details style="display: inline;">
+<summary><img width="24px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> React</summary>
+		
+<p align='center' style="display: flex;">
+	<a class="card" style="float: left;" href="https://github.com/ksyasuda/firefox-startpage">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=firefox-startpage&theme=react" />
+	</a>
+</p>
+
+</details>
+
 <details>
-<summary><img width='24px' src="https://img.icons8.com/fluent/48/000000/console.png"/> Linux Dotfiles / Configuration Files</summary>
+<summary><img width='24px' src="https://img.icons8.com/fluent/48/000000/console.png"/>Shell Scripts/Linux Config</summary>
 
 <p align='center' style="display: flex;">
 	<a class="card" style="float: left" href="https://github.com/ksyasuda/SudacodeRice">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=SudacodeRice&theme=react"/>
 	</a>
-	<a class="card" style="float: left" href="https://github.com/ksyasuda/ani-cli">
+	<a class="card" style="float: left" href="https://github.com/ksyasuda/aniwrapper">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=ani-cli&theme=react"/>
+	</a>
+</p>
+</details>
+
+<details>
+<summary>
+<img width='24px' src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript / <img width='24px' src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</summary>
+
+<p align='center' style="display: flex;">
+	<a class="card" style="float: left;"href="https://github.com/ksyasuda/Sudacode-Blog-V3">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Sudacode-Blog-V3&theme=react"/>
+	</a>
+	<a class="card" style="float: left" href="https://github.com/ksyasuda/Flappy-Bird">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ksyasuda&repo=Flappy-Bird&theme=react"/>
 	</a>
 </p>
 
