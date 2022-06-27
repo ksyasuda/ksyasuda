@@ -16,6 +16,6 @@
 
 <div align="center">
     <a href="https://metrics.sudacode.com" target="_blank">
-        <img src="https://metrics.sudacode.com/ksyasuda?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&traffic=1&repositories=1&wakatime=1&fortune=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&repositories.featured=ksyasuda%2Faniwrapper&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=sudacode&wakatime.languages.other=true&wakatime.repositories.visibility=all&config.timezone=America%2FLos_Angeles">
+       <img src="/github-metrics.svg" alt="Metrics" width="100%">
     </a>
 </div>
