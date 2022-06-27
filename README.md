@@ -16,6 +16,6 @@
 
 <div align="center">
     <a href="https://metrics.sudacode.com" target="_blank">
-       <img src="/github-metrics.svg" alt="Metrics" width="100%">
+       <img src="/github-metrics.svg" alt="Metrics" width="400">
     </a>
 </div>
