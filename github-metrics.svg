@@ -257,12 +257,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 68.34400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
+                                <div class="bar" style="width: 66.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">83%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 2.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.6879999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
@@ -271,14 +271,14 @@
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 2.3600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Lua</span>
-                                <div class="bar" style="width: 1.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 2.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
@@ -294,14 +294,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2023, 00:06:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 01:07:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
