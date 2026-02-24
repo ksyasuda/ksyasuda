@@ -35,7 +35,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_repositories: yes
-          plugin_repositories_featured: ksyasuda/mpv-youtube-queue
+          plugin_repositories_featured: ksyasuda/SubMiner, ksyasuda/mpv-youtube-queue
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_languages_other: yes
