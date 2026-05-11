@@ -1,10 +1,6 @@
-# **_I'm Kyle Yasuda_**
-
-### Software Engineer at Westlake Financial Services
-
 :penguin: My Linux (Arch btw) configuration and dotfiles can be found here :arrow_right: [rice](https://github.com/ksyasuda/rice)
 
-:open_book: I'm currently learning about self-hosting and building a home server using and old PC and my Raspberry Pi 4.
+:open_book: I'm currently learning about self-hosting and building a home server using and old PC and my Raspberry Pi 5.
 
 :mailbox_with_mail: How to get in contact with me: [Email](mailto:suda@sudacode.com) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
 
