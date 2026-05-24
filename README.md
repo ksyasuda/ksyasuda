@@ -2,9 +2,7 @@
 
 :open_book: I'm currently learning about self-hosting and building a home server using and old PC and my Raspberry Pi 5.
 
-:mailbox_with_mail: How to get in contact with me: [Email](mailto:suda@sudacode.com) | [LinkedIn](https://www.linkedin.com/in/kyle-yasuda-7a81b415b/)
-
-:boom: Fun fact: I'm half Japanese, but I don't like Sushi!
+:mailbox_with_mail: How to get in contact with me: [Email](mailto:suda@sudacode.com)
 
 :pushpin: Check out my blog: <https://sudacode.com>
 
